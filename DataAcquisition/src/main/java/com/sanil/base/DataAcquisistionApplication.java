@@ -12,6 +12,9 @@ public class DataAcquisistionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DataAcquisistionApplication.class, args);
+		
+		
+		//line just to check commit
 	}
 
 }
